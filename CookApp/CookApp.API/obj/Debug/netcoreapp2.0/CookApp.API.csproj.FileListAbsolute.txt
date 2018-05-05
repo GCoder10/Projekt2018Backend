@@ -1,0 +1,10 @@
+C:\Users\Kacper\Praktyki\ProjektRekrutacyjnyBackend\CookApp\CookApp.API\bin\Debug\netcoreapp2.0\CookApp.API.deps.json
+C:\Users\Kacper\Praktyki\ProjektRekrutacyjnyBackend\CookApp\CookApp.API\bin\Debug\netcoreapp2.0\CookApp.API.runtimeconfig.json
+C:\Users\Kacper\Praktyki\ProjektRekrutacyjnyBackend\CookApp\CookApp.API\bin\Debug\netcoreapp2.0\CookApp.API.runtimeconfig.dev.json
+C:\Users\Kacper\Praktyki\ProjektRekrutacyjnyBackend\CookApp\CookApp.API\bin\Debug\netcoreapp2.0\CookApp.API.dll
+C:\Users\Kacper\Praktyki\ProjektRekrutacyjnyBackend\CookApp\CookApp.API\bin\Debug\netcoreapp2.0\CookApp.API.pdb
+C:\Users\Kacper\Praktyki\ProjektRekrutacyjnyBackend\CookApp\CookApp.API\obj\Debug\netcoreapp2.0\CookApp.API.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Praktyki\ProjektRekrutacyjnyBackend\CookApp\CookApp.API\obj\Debug\netcoreapp2.0\CookApp.API.AssemblyInfoInputs.cache
+C:\Users\Kacper\Praktyki\ProjektRekrutacyjnyBackend\CookApp\CookApp.API\obj\Debug\netcoreapp2.0\CookApp.API.AssemblyInfo.cs
+C:\Users\Kacper\Praktyki\ProjektRekrutacyjnyBackend\CookApp\CookApp.API\obj\Debug\netcoreapp2.0\CookApp.API.dll
+C:\Users\Kacper\Praktyki\ProjektRekrutacyjnyBackend\CookApp\CookApp.API\obj\Debug\netcoreapp2.0\CookApp.API.pdb
