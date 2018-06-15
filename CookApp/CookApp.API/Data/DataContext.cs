@@ -9,4 +9,5 @@ namespace CookApp.API.Data
 
             public DbSet<Recipe> recipes { get; set; }
     }
+
 }
